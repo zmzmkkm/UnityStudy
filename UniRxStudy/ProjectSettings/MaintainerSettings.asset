@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<MaintainerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <issuesFinderSettings>
+    <pathIgnores />
+    <componentIgnores />
+    <ignoresTabIndex>0</ignoresTabIndex>
+    <lookInScenes>true</lookInScenes>
+    <scenesSelection>AllScenes</scenesSelection>
+    <lookInAssets>true</lookInAssets>
+    <touchInactiveGameObjects>true</touchInactiveGameObjects>
+    <touchDisabledComponents>true</touchDisabledComponents>
+    <gameObjectsFoldout>true</gameObjectsFoldout>
+    <commonFoldout>false</commonFoldout>
+    <prefabsFoldout>false</prefabsFoldout>
+    <unusedFoldout>false</unusedFoldout>
+    <neatnessFoldout>false</neatnessFoldout>
+    <projectSettingsFoldout>true</projectSettingsFoldout>
+    <scanGameObjects>false</scanGameObjects>
+    <scanProjectSettings>false</scanProjectSettings>
+    <missingComponents>false</missingComponents>
+    <duplicateComponents>false</duplicateComponents>
+    <duplicateComponentsPrecise>true</duplicateComponentsPrecise>
+    <missingReferences>false</missingReferences>
+    <undefinedTags>false</undefinedTags>
+    <inconsistentTerrainData>false</inconsistentTerrainData>
+    <missingPrefabs>false</missingPrefabs>
+    <disconnectedPrefabs>false</disconnectedPrefabs>
+    <emptyMeshColliders>false</emptyMeshColliders>
+    <emptyMeshFilters>false</emptyMeshFilters>
+    <emptyAnimations>false</emptyAnimations>
+    <emptyRenderers>false</emptyRenderers>
+    <emptySpriteRenderers>false</emptySpriteRenderers>
+    <emptyTerrainCollider>false</emptyTerrainCollider>
+    <emptyAudioSource>false</emptyAudioSource>
+    <emptyArrayItems>false</emptyArrayItems>
+    <skipEmptyArrayItemsOnPrefabs>true</skipEmptyArrayItemsOnPrefabs>
+    <unnamedLayers>false</unnamedLayers>
+    <hugePositions>false</hugePositions>
+    <duplicateScenesInBuild>false</duplicateScenesInBuild>
+    <duplicateTagsAndLayers>false</duplicateTagsAndLayers>
+  </issuesFinderSettings>
+  <projectCleanerSettings>
+    <pathIgnores />
+    <useTrashBin>true</useTrashBin>
+    <findEmptyFolders>true</findEmptyFolders>
+    <findEmptyFoldersAutomatically>false</findEmptyFoldersAutomatically>
+    <findEmptyScenes>true</findEmptyScenes>
+    <firstTime>false</firstTime>
+  </projectCleanerSettings>
+  <selectedTabIndex>0</selectedTabIndex>
+</MaintainerSettings>
